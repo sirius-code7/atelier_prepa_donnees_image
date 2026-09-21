@@ -38,7 +38,6 @@ L'atelier couvre notamment :
 - la normalisation des pixels ;
 - le découpage train/validation/test ;
 - la data augmentation.
-EOF
 
 #
 

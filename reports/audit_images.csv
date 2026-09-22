@@ -1,0 +1,9 @@
+indicateur,nombre
+total d'images,1032
+images corrompues,6
+images quasi vides,4
+images trop petites,13
+doublons,30
+images grayscale,2
+images rgba,18
+images mal classees,controle visuel
